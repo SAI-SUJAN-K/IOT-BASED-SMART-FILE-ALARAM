@@ -56,8 +56,7 @@ When dangerous levels are detected, the **NodeMCU** triggers:
 
 ---
 
-## 📐 Circuit Diagram
-(Upload an image named `circuit_diagram.jpg` later)
+
 
 ---
 
