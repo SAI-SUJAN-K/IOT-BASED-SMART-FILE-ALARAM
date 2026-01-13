@@ -48,11 +48,7 @@ When dangerous levels are detected, the **NodeMCU** triggers:
 
 ---
 
-## 📎 Files Included
-- Main project code (`fire-alarm-blynk.ino`)
-- Circuit diagram
-- Project report PDF
-- Output images/video
+
 
 ---
 
